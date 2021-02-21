@@ -1,3 +1,5 @@
+String firstTest = 'Lool';
+
 void main(List<String> arguments) {
-  print('Hello world!');
+  print('Our first string was: $firstTest');
 }
